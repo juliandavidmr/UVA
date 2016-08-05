@@ -1,13 +1,8 @@
 ![uva](http://disi.unal.edu.co/~gjhernandezp/introisc/contests/UVa.png)
 
-# Inverse modeling for SailsJS & Waterline
-
-[![Build Status](https://travis-ci.org/juliandavidmr/sails-inverse-model.svg?branch=master)](https://travis-ci.org/juliandavidmr/sails-inverse-model)
-
 # UVA
 
 - Archivos y directorios con nombres terminados en _ son los que están en proceso (aún no han sido culminados)
-
 
 ---
 
