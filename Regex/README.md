@@ -1,8 +1,8 @@
 # Expresiones regulares
 
-- __[Genericos](#Genericos)__
-- __[Numeros](#Numeros)__
-- __[Cadenas](#Cadenas)__
+- __[Genericos](#genericos)__
+- __[Numeros](#numeros)__
+- __[Cadenas](#cadenas)__
 
 ### Genericos #
 
@@ -40,4 +40,7 @@
 | Letras mayusculas y minusculas         | [A-Za-z0-9]                            |
 ||  |
 
+## Mas información
 __[Probador de expresiones](http://regexr.com/)__
+__[Tutorial Regex C++](https://solarianprogrammer.com/2011/10/12/cpp-11-regex-tutorial)__
+__[Remplazar datos con Regex C++](__http://www.cplusplus.com/reference/regex/regex_replace/)
