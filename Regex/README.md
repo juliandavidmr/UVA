@@ -41,6 +41,6 @@
 ||  |
 
 ## Mas información
-__[Probador de expresiones](http://regexr.com/)__
-__[Tutorial Regex C++](https://solarianprogrammer.com/2011/10/12/cpp-11-regex-tutorial)__
-__[Remplazar datos con Regex C++](__http://www.cplusplus.com/reference/regex/regex_replace/)
+- __[Probador de expresiones](http://regexr.com/)__
+- __[Tutorial Regex C++](https://solarianprogrammer.com/2011/10/12/cpp-11-regex-tutorial)__
+- __[Remplazar datos con Regex C++](http://www.cplusplus.com/reference/regex/regex_replace/)__
